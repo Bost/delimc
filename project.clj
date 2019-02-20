@@ -1,4 +1,4 @@
-(defproject delimc :lein-v
+(defproject org.clojars.bost/delimc :lein-v
   :description "Delimited Continuations for Clojure"
   :dependencies
   [[org.clojure/clojure "1.10.0"]
